@@ -1,0 +1,30 @@
+#Front End Developer
+
+> **Front end là phần giao diện người dùng của một trang web hoặc ứng dụng web, bao gồm các thành phần như các đoạn mã HTML, CSS và JavaScript. Front end được thiết kế để hiển thị nội dung của trang web cho người dùng, tương tác với người dùng và tạo ra trải nghiệm người dùng tốt nhất có thể. Các công việc của một front-end developer bao gồm thiết kế giao diện người dùng, phát triển các tính năng giao diện, tối ưu hóa trải nghiệm người dùng và đảm bảo tính tương thích trên các trình duyệt và thiết bị khác nhau.**
+
+#HTML/CSS Cơ bản - Nâng Cao
+
+##Sử dụng Git và Github cơ bản đến nâng cao:
+Do trong quá trình học sẽ sử dụng Github để lưu source code để thuận tiện cho việc review và làm quen với các thao tác với git
+
+##Phần 1: Tổng quan về HTML cần nắm vững:
+####- Các thành phần cơ bản của một file HTML
+####- Những thẻ HTML hay dùng 
+####- So sánh về block và inline block
+####- So sánh về Class và ID
+####- Kiến thức về BEM
+####- Phân tích giao diện
+####- Bài tập
+##Phần 2: Tổng quan về CSS cần nắm vững:
+####- CSS là gì? Cấu trúc của một đoạn code CSS
+####- 
+
+##Phần 3: Kiến thức CSS nâng cao:
+
+##Phần 4: Sử dụng Flexbox, Grid:
+
+##Phần 5: Kiến thức về các thẻ Form, Table trong HTML:
+
+##Phần 6: Responsive:
+
+##Phần 7: Dự án thực tế:
