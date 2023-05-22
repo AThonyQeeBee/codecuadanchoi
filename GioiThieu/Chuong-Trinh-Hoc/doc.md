@@ -4,8 +4,27 @@
 
 #HTML/CSS Cơ bản - Nâng Cao
 
-##Sử dụng Git và Github cơ bản đến nâng cao:
-Do trong quá trình học sẽ sử dụng Github để lưu source code để thuận tiện cho việc review và làm quen với các thao tác với git
+##Kiến thức sử dụng Git và Github cơ bản đến nâng cao:
+**Sử dụng trong quá trình học để quản lý source code**
+>**Git cơ bản:** Bắt buộc phải hiểu và thao tác được với Git căn bản để tự quản lý code của bản thân và có thể pull, push code lên github phục vụ mục đích deploy cũng như review, debug trong quá trình làm việc.
+####- Giới thiệu về Github và các tính năng cơ bản của Github
+####- Cách viết và đọc file markdown (README.md)
+####- Cài đặt git cho máy tính
+####- Cách tạo và sử dụng SSH key
+####- Các câu lệnh git cơ bản
+####- Giới thiệu về .gitignore
+>**Git nâng cao:** Trong một dự án có sự tham gia của nhiều người thì kiến thức git nâng cao sẽ giúp chúng ta tạo ra nhiều nhánh làm việc độc lập để dễ dàng quản lý code cũng như đảm bảo an toàn cho code trong quá trình phát triển dự án.
+
+####- Branch là gì? Cách thao tác với Branch.
+####- Các câu lệnh cần biết khi thao tác với branch
+####- Câu lệnh stash
+####- Câu lệnh merge
+####- Câu lệnh rebase
+####- Câu lệnh fetch - remote
+####- Các kỹ thuật hoàn tác
+####- Git Flow
+
+>**Các kỹ thuật sử lý conflict code:** Trong quá trình sử dụng git chắc chắn sẽ có lúc xảy ra conflict code. Chúng ta cần bình tĩnh xử lý vấn đề để công việc không bị gián đoạn và code vẫn được an toàn. Sau đây là vài cách sử lý conflict hiệu quả.
 
 ##Phần 1: Tổng quan về HTML cần nắm vững:
 ####- Các thành phần cơ bản của một file HTML
@@ -13,11 +32,14 @@ Do trong quá trình học sẽ sử dụng Github để lưu source code để 
 ####- So sánh về block và inline block
 ####- So sánh về Class và ID
 ####- Kiến thức về BEM
+####- Emmet cơ bản trong VSCode
 ####- Phân tích giao diện
-####- Bài tập
+####- Bài tập cắt giao diện
 ##Phần 2: Tổng quan về CSS cần nắm vững:
 ####- CSS là gì? Cấu trúc của một đoạn code CSS
-####- 
+####- Các thuộc tính color, kích thước, đơn vị cần nắm vững
+####- Border - Margin - Padding
+
 
 ##Phần 3: Kiến thức CSS nâng cao:
 
