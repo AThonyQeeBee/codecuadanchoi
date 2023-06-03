@@ -1,0 +1,37 @@
+#subcribe {
+  background-color: #0089e3;
+  width: 1000px;
+  height: 1000px;
+  text-align: center;
+}
+.subcribe_header-title {
+  color: white;
+  line-height: 1.4;
+  font-size: 40px;
+}
+.subcribe_header-desc {
+  color: white;
+  line-height: 1.4;
+  padding-bottom: 20px;
+  opacity: 0.8;
+}
+.subscribe_footer-email {
+  background-color: white;
+  color: black;
+  padding-top: 24px;
+  padding-bottom: 24px;
+  padding-right: 180px;
+  text-align: left;
+}
+.subscribe_footer-btn {
+  background-color: #30373b;
+  color: white;
+  text-align: justify;
+  padding-left: 130px;
+  padding-top: 24px;
+  padding-bottom: 24px;
+  padding-right: 150px;
+}
+.subscribe_footer-btn:hover {
+  background-color: grey;
+}
